@@ -20,7 +20,7 @@
 #
 
 ### Badges & Skills
-![RDeni's tryhackme stats](https://raw.githubusercontent.com/RDeni/RDeni/master/assets/RDeni.png)
+![RDeni's tryhackme stats](https://raw.githubusercontent.com/RDeni/RDeni/master/assets/thm_propic.png)
 
 ## 💻🔐Cybersecurity Projects:
 
