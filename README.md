@@ -19,6 +19,9 @@
 
 #
 
+### Badges & Skills
+![RDeni's tryhackme stats](https://raw.githubusercontent.com/RDeni/RDeni/master/assets/thm_propic.png)
+
 ## 💻🔐Cybersecurity Projects:
 
 - <b>[Azure Sentinel SIEM Attack Map](https://github.com/cecirio/azure-sentinel-attack-map/blob/main/README.md)
