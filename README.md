@@ -10,26 +10,26 @@
   - Network Security Groups (Layer 4/3 Firewall in Azure)
   - Remote Desktop Protocol (RDP)<br/>
   <br/>
-- <b>[Virtual Active Directory Environment in Azure (Upcoming)]()
+- <b>[Virtual Active Directory Environment in Azure (Upcoming)](https://github.com/cecirio/cecirio/blob/main/README.md)
   <br/>Key Learning Points:</b>
   - Active Directory
   - PowerShell
   - Windwos Server
   - Virtualization (Oracle VirtualBox)<br/>
   <br/>
-- <b>[File Integrity Monitor (FIM) (Upcoming)]()
+- <b>[File Integrity Monitor (FIM) (Upcoming)](https://github.com/cecirio/cecirio/blob/main/README.md)
   <br/>Key Learning Points:</b>
   - PowerShell
   - Hashing Algorythms (SHA-512, etc.)
   - Automation<br/>
   <br/>
-- <b>[Vulnerability Management Lab (Upcoming)]()
+- <b>[Vulnerability Management Lab (Upcoming)](https://github.com/cecirio/cecirio/blob/main/README.md)
   <br/>Key Learning Points:</b>
   - Nessus Esssentials
   - Virtualizatin (Oracle VirtualBox)
   - Vulnerability Remediation<br/>
   <br/>
-- <b>[Simple REST API Build (Upcoming)]()
+- <b>[Simple REST API Build (Upcoming)](https://github.com/cecirio/cecirio/blob/main/README.md)
   <br/>Key Learning Points:</b>
   - Coding/Web Development (Python)
   - Gateway to WebApp Pentesting
