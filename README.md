@@ -1,5 +1,9 @@
 # Hi, I'm Cecilia! <br/><a href="https://www.linkedin.com/in/rios-cecilia/">Cybersecurity Professional</a>, <a href="https://cecirios.com/">Blogger</a>
 
+I am an IT Helpdesk Technician Level I and Cybersecurity Bootcamp graduate from Flatiron School. Looking forward to expand my knowledge and build awesome projects to help others. Before landing my first job in IT I spent five years working as a Business Associate providing interpretation services for many industries. Currently pursuing a Cybersecurity Analyst role and learning how to code with the ultimate goal of becoming an Incident Responder. 
+
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -20,38 +24,44 @@
 #
 
 ### Badges & Skills
-![RDeni's tryhackme stats](https://raw.githubusercontent.com/RDeni/RDeni/master/assets/thm_propic.png)
+![RDeni's tryhackme stats](https://raw.githubusercontent.com/cecirio/cecirio/master/assets/thm_propic.png)
 
 ## 💻🔐Cybersecurity Projects:
 
-- <b>[Azure Sentinel SIEM Attack Map](https://github.com/cecirio/azure-sentinel-attack-map/blob/main/README.md)
-  <br/>Key Learning Points:</b>
+#### [Azure Sentinel SIEM Attack Map](https://github.com/cecirio/azure-sentinel-attack-map/blob/main/README.md)
+<img src="https://github.com/cecirio/cecirio/blob/main/assets/honeycomb_sentinel2.png" width="350" height="200" />
+
+  <b>Key Learning Points:</b>
   - Microsoft Azure Portal
   - Azure Sentinel
   - Kusto Query Language (KQL - Used to build World Map)
   - Network Security Groups (Layer 4/3 Firewall in Azure)
   - Remote Desktop Protocol (RDP)<br/>
   <br/>
-- <b>[Virtual Active Directory Environment in Azure (Upcoming)](https://github.com/cecirio)
+  
+  <b>[Virtual Active Directory Environment in Azure (Upcoming)](https://github.com/cecirio)
   <br/>Key Learning Points:</b>
   - Active Directory
   - PowerShell
   - Windwos Server
   - Virtualization (Oracle VirtualBox)<br/>
   <br/>
-- <b>[File Integrity Monitor (FIM) (Upcoming)](https://github.com/cecirio)
+  
+ <b>[File Integrity Monitor (FIM) (Upcoming)](https://github.com/cecirio)
   <br/>Key Learning Points:</b>
   - PowerShell
   - Hashing Algorythms (SHA-512, etc.)
   - Automation<br/>
   <br/>
-- <b>[Vulnerability Management Lab (Upcoming)](https://github.com/cecirio)
+  
+  <b>[Vulnerability Management Lab (Upcoming)](https://github.com/cecirio)
   <br/>Key Learning Points:</b>
   - Nessus Esssentials
   - Virtualizatin (Oracle VirtualBox)
   - Vulnerability Remediation<br/>
   <br/>
-- <b>[Simple REST API Build (Upcoming)](https://github.com/cecirio)
+  
+ <b>[Simple REST API Build (Upcoming)](https://github.com/cecirio)
   <br/>Key Learning Points:</b>
   - Coding/Web Development (Python)
   - Gateway to WebApp Pentesting
