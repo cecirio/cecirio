@@ -79,7 +79,7 @@ I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate fro
 ## 🤳 Connect with me:
 
 [<img align="left" alt="cecirio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="cecirio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/rios-cecilia/
 [twitter]: https://twitter.com/CeciRi0
