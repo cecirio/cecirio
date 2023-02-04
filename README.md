@@ -27,7 +27,7 @@ I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate fro
 
 ## 💻🔐Cybersecurity Projects:
 
-#### [Azure Sentinel SIEM Attack Map](https://github.com/cecirio/azure-sentinel-attack-map/blob/main/README.md)
+#### [Azure Sentinel SIEM Attack Map](https://github.com/cecirio/azure-sentinel-attack-map)
 <img src="https://github.com/cecirio/cecirio/blob/main/assets/honeycomb_sentinel2.png" width="350" height="200" />
 
   <b>Key Learning Points:</b>
@@ -38,11 +38,13 @@ I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate fro
   - Remote Desktop Protocol (RDP)<br/>
   <br/>
   
-  <b>[Virtual Active Directory Environment in Azure (Upcoming)](https://github.com/cecirio)
+#### [Virtual Active Directory Environment in Azure](https://github.com/cecirio/microsoft-active-directory)
+<img src="https://github.com/cecirio/cecirio/blob/main/assets/activedirect.png" width="350" height="200" />
+
   <br/>Key Learning Points:</b>
   - Active Directory
   - PowerShell
-  - Windwos Server
+  - Windows Server
   - Virtualization (Oracle VirtualBox)<br/>
   <br/>
   
