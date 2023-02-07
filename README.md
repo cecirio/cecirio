@@ -41,7 +41,7 @@ I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate fro
 #### [Virtual Active Directory Environment in Azure](https://github.com/cecirio/microsoft-active-directory)
 <img src="https://github.com/cecirio/cecirio/blob/main/assets/activedirect.png" width="350" height="200" />
 
-  <br/>Key Learning Points:</b>
+  <b/>Key Learning Points:</b>
   - Active Directory
   - PowerShell
   - Windows Server
