@@ -1,4 +1,4 @@
-# Hi, I'm Cecilia! <br/><a href="https://www.linkedin.com/in/rios-cecilia/">Cybersecurity Professional</a>, <a href="https://cecirios.com/">Blogger</a>
+# Hi, I'm Cecilia! <br/><a href="https://www.linkedin.com/in/rios-cecilia/">Cybersecurity Professional</a>, <a href="https://rd3nsec.net/">Blogger</a>
 
 I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate from **Flatiron School**. Looking forward to expand my knowledge and build awesome projects to help others. Before landing my first job in IT I spent five years working as a Business Associate providing interpretation services for many industries. Currently pursuing a Cybersecurity Analyst role and learning how to code with the ultimate goal of becoming an **Incident Responder**. 
 
@@ -71,9 +71,10 @@ I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate fro
 
 <h2>📝 Blogs & Writeups</h2>
 
-- [What is a Network?](https://cecirios.com/2022/03/what-is-a-network)
-- [The Internet and How it Works](https://cecirios.com/2022/03/the-internet-and-how-it-works)
-- [OverTheWire](https://cecirios.com/category/linux)
+- [Computers 101: Understanding the Building Blocks of Your Computer](https://rd3nsec.net/computers-101-understanding-the-building-blocks-of-your-computer/)
+- [Cloud Computing for Beginners: Where Nerdy Dreams Meet Digital Reality](https://rd3nsec.net/cloud-computing-for-beginners-where-nerdy-dreams-meet-digital-reality/)
+- [OverTheWire Wargames: Bandit Levels 0 - 5](https://rd3nsec.net/overthewire-wargames-bandit-levels-0-5/)
+- [AWS Cloud Quest Writeup](https://rd3nsec.net/aws-cloud-quest-writeup-cloud-computing-essentials/)
 
 <h2><a href="https://cecirios.net/">Resume Portfolio<a/></h2>
 
