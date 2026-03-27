@@ -1,4 +1,4 @@
-# Hi, I'm Cecilia! <br/><a href="https://www.linkedin.com/in/rios-cecilia/">Cybersecurity Professional</a>, <a href="https://rd3nsec.net/">Blogger</a>
+# Hi, I'm Cecilia! <br/><a href="https://www.linkedin.com/in/rios-cecilia/">Cybersecurity Enthusiast</a>, <a href="https://rd3nsec.net/">Blogger</a>
 
 I am an **IT Helpdesk Technician** and a **Cybersecurity Bootcamp** graduate from **Flatiron School**. Looking forward to expand my knowledge and build awesome projects to help others. Before landing my first job in IT I spent five years working as a Business Associate providing interpretation services for many industries. Currently pursuing a Cybersecurity Analyst role and learning how to code with the ultimate goal of becoming an **Incident Responder**. 
 
